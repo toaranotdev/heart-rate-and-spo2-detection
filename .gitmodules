@@ -1,0 +1,12 @@
+[submodule "libraries/Filters"]
+	path = libraries/Filters
+	url = https://github.com/PowerBroker2/Filters
+[submodule "libraries/movingAvg"]
+	path = libraries/movingAvg
+	url = https://github.com/JChristensen/movingAvg
+[submodule "libraries/SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library"]
+	path = libraries/SparkFun_MAX3010x_Pulse_and_Proximity_Sensor_Library
+	url = https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library/
+[submodule "libraries/PeakDetection"]
+	path = libraries/PeakDetection
+	url = https://github.com/leandcesar/PeakDetection
